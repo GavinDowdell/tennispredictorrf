@@ -3,7 +3,7 @@
 Code for tennis predictor web application
 
 To run
-1. clone or downlod the files
+1. clone the repo or download the files
 2. setup an environment with requirements.txt
 3. run python app.py
 
