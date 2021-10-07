@@ -1,6 +1,6 @@
 
 # UTR tennis predictor
-##Code for the UTR tennis predictor web application
+## Code for the UTR tennis predictor web application
 
 To run
 1. clone the repo or download the files
