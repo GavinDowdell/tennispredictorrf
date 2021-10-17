@@ -10,7 +10,7 @@ To run
 5. run python app.py
 
 To view the web application follow the link below
-[Link to the Web Application Here](https://tennispredictorrf.herokuapp.com/)
+[TennisPredictor](https://tennispredictorrf.herokuapp.com/)
 
 
 The application calculates the probability of winning the match and set from the current point AND if you win of lose the current point in an attempt to quantify point importance
