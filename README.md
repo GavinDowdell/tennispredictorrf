@@ -4,9 +4,8 @@
 
 To run
 
-
 1. clone the repo or download the files
-2. use conda, venv, virtualenv etc to setup an environment with the requirements.txt file
+2. use conda to setup an environment with the requirements.txt file
 3. activate the new environment
 4. chdir to the root directory of app.py
 5. run python app.py
