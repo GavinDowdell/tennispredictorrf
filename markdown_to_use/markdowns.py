@@ -29,6 +29,7 @@ It is meant for
    With that in mind a cumulative graph is also updated as the match progresses showing the progression of probabilities through the match plotted against the match score.
 
 I will probably be updating the model regularly
+
 Enjoy!
 '''
 markdown_text1 = '''
